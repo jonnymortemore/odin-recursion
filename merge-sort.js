@@ -1,5 +1,5 @@
 //test arrays
-MERGESORT_ARRAYS = [
+const MERGESORT_ARRAYS = [
   [],
   [73],
   [1, 2, 3, 4, 5],
